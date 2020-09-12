@@ -25,7 +25,7 @@ import android.net.Uri;
 import android.os.Build;
 import android.provider.MediaStore;
 
-import androidx.loader.content.CursorLoader;
+import android.support.v4.content.CursorLoader;
 
 import com.zhihu.matisse.MimeType;
 import com.zhihu.matisse.internal.entity.Album;
